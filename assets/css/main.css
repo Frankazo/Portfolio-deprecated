@@ -71,6 +71,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+.devicon-list {
+  margin: 40px 20px;
+}
+
+.devicon-icon {
+  margin: 30px;
+}
 /* Basic */
 
 	@-ms-viewport {
