@@ -78,6 +78,15 @@ input, select, textarea {
 .devicon-icon {
   margin: 30px;
 }
+
+.icons-front {
+  font-size: 27px;
+  flex: auto;
+  align-items: center;
+  list-style-type: none;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -3914,3 +3923,7 @@ input, select, textarea {
 			}
 
 		}
+
+    .front-btn {
+      margin-left: 10px;
+    }
