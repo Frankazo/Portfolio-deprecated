@@ -71,24 +71,7 @@ input, select, textarea {
   appearance: none;
 }
 
-.devicon-list {
-  margin: 40px 20px;
-}
 
-.devicon-icon {
-  margin: 30px;
-}
-
-.icons-front {
-  font-size: 27px;
-  flex: auto;
-  align-items: center;
-  list-style-type: none;
-}
-
-.style1, .style1 h1  {
-  color: #05386B;
-}
 /* Basic */
 @-ms-viewport {
   width: device-width;
@@ -3199,6 +3182,30 @@ body.is-preload #sidebar nav ul li {
   #intro {
     background-attachment: scroll;
   }
+}
+
+.devicon-list {
+  margin: 40px 20px;
+}
+
+.devicon-icon {
+  margin: 30px;
+}
+
+.icons-front {
+  font-size: 27px;
+  flex: auto;
+  align-items: center;
+  list-style-type: none;
+}
+
+.style1, .style1 h1, .style1 h3, .myForm,
+.style3, .style3 h2, .style3 h3, .style3 h4  {
+  color: #05386B;
+}
+
+.style3 .icon {
+  background-color: #05386B;
 }
 
 /*# sourceMappingURL=main.css.map */
