@@ -1,0 +1,37 @@
+@import 'fontawesome-all.min.css';
+
+.devicon-list {
+  margin: 40px 20px;
+}
+
+.devicon-icon {
+  margin: 30px;
+}
+
+.icons-front {
+  font-size: 27px;
+  flex: auto;
+  align-items: center;
+  list-style-type: none;
+}
+
+.style2, .style2 h2, .style2 a:visited {
+  color: #EDF5E1;
+}
+
+.profile-pic {
+  width: 20%;
+  height: auto;
+  display: inline;
+  margin-right: 30px;
+}
+
+.profile h1 {
+  display: inline;
+}
+
+.feature-pic {
+  width: 30%;
+  height: auto;
+  margin: 5px;
+}

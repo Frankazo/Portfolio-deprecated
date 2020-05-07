@@ -35,15 +35,17 @@
 	$palette: (
 		bg:					#05386B,
 		bg-alt:				darken(#05386B, 5),
-		fg:					#EDF5E180,
-		fg-bold:			#EDF5E1,
-		fg-light:			#EDF5E160,
-		border:				#EDF5E130,
-		border-bg:			#EDF5E115,
+		fg:					#05386B80,
+		fg-bold:			#05386B,
+		fg-light:			#05386B60,
+		border:				#05386B30,
+		border-bg:			#05386B15,
 		accent1:			#5CDB95,
 		accent1-alt:		darken(#5CDB95, 10),
 		accent2:			#379683,
 		accent2-alt:		darken(#379683, 10),
 		accent3:			#8EE4AF,
-		accent3-alt:		darken(#8EE4AF, 10)
+		accent3-alt:		darken(#8EE4AF, 10),
+    accent4:			#EDF5E1,
+    accent4-alt:		darken(#EDF5E1, 10)
 	);
